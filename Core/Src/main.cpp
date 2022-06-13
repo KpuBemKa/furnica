@@ -39,7 +39,7 @@ main()
     std::cout << "2.  Exclude din drumul furnicii, descris in filul Furnica.in, ultima directie" << std::endl;
     std::cout << "3.  Initializeaza matricea patratica A, aplicand formula A[i, j] = ( i + j ) % 6" << std::endl;
     std::cout << "4.  Determina frecventa cifrelor din multimea { 0, 1, 2, 3, 4, 5 } in cadrul matricei A"  << std::endl;
-    std::cout << "5.  Afiseaza pe ecran elementele unui rand a matricei A, ordonate crescator, prin metoda selectiei"  << std::endl;
+    std::cout << "5.  Afiseaza pe ecran elementele unui rand a matricei A, ordonate crescator prin metoda selectiei"  << std::endl;
     std::cout << "6.  Creaza fisierul UnZero.txt prin copiere din fisierul Furnica.in a liniilor care contin doar un singur zero"  << std::endl;
     std::cout << "7.  Gaseste in matricea A o submatrice patratica de dimensiune maximala ce nu contine cifra 1." << std::endl
               << "    Afiseaza-i coordonatele punctului stanga-sus si dimensiunea ei" << std::endl;
